@@ -1,0 +1,49 @@
+html{
+	position: relative;
+}
+body{
+	margin-bottom: 120px;
+	margin-top: 30px;
+}
+.jumbotron img{
+	width: 200px;
+	border: 5px solid #666;
+}
+hr{
+	width: 250px;
+	border-top: 3px solid #999;
+}
+/*section{
+	min-height: 600px;
+	background-color: green;*/
+}
+.portopolio{
+	background-color: #eee;
+}
+.contact{
+	min-height: 800px;
+}
+footer{
+	position: absolute;
+}
+footer p {
+	color: #aaa;
+	font-size: 0.9em;
+
+}
+footer p i{
+	color: salmon;
+}
+/*#sidebar{
+	background-color: lightblue;
+	float: left;
+
+}
+#main{
+	background-color:cyan;
+	float: left;
+
+}*/
+/*.about{
+	background-color:green;
+}*/
